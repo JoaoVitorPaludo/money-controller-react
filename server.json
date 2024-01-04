@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Testes",
+      "type": "income",
+      "category": "venda",
+      "price": 1500,
+      "createdAt": "2024-01-04T15:39:17.413Z"
+    },
+    {
+      "id": 2,
+      "description": "Lanche",
+      "type": "outcome",
+      "category": "alimentação",
+      "price": 50,
+      "createdAt": "2024-01-04T15:39:17.413Z"
+    }
+  ]
+}
