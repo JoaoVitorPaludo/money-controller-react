@@ -15,6 +15,22 @@
       "category": "alimentação",
       "price": 50,
       "createdAt": "2024-01-04T15:39:17.413Z"
+    },
+    {
+      "category": "alimentação",
+      "description": "lanche gostoso",
+      "price": 60,
+      "type": "income",
+      "createdAt": "2024-01-08T15:25:46.341Z",
+      "id": 3
+    },
+    {
+      "category": "aaaa",
+      "description": "teste",
+      "price": 12,
+      "type": "outcome",
+      "createdAt": "2024-01-08T15:35:48.705Z",
+      "id": 4
     }
   ]
 }
